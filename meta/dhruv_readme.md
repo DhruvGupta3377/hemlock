@@ -16,7 +16,7 @@ https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/m
 
 https://github.com/richzhang/PerceptualSimilarity
 
-### Clean Lable Poisoning 
+### Clean Label Poisoning 
 
 http://proceedings.mlr.press/v97/zhu19a/zhu19a.pdf
 
