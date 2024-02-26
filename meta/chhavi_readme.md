@@ -1,6 +1,9 @@
 ## Fawkes
 [https://www.usenix.org/system/files/sec20-shan.pdf](https://www.usenix.org/system/files/sec20-shan.pdf)
 
+code:
+[https://github.com/Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes)
+
 ## Lowkey
 [https://arxiv.org/abs/2101.07922](https://arxiv.org/abs/2101.07922)
 
@@ -16,3 +19,8 @@
 
 ## Deep Features as a Perceptual Metric
 [https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_The_Unreasonable_Effectiveness_CVPR_2018_paper.pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_The_Unreasonable_Effectiveness_CVPR_2018_paper.pdf)
+
+## Image Quality Assessment through FSIM, SSIM, MSE and PSNR—A Comparative Study
+[https://www.scirp.org/pdf/JCC_2019030117485323.pdf](https://www.scirp.org/pdf/JCC_2019030117485323.pdf)
+
+
