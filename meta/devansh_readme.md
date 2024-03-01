@@ -9,6 +9,12 @@ https://www.tensorflow.org/lite/examples/style_transfer/overview
 **Diff-NST** <br>
 https://arxiv.org/pdf/2307.04157.pdf
 
+**NNST** <br>
+https://arxiv.org/pdf/2203.13215.pdf
+
+**NeAT** <br>
+https://arxiv.org/pdf/2304.05139.pdf
+
 **Models on Github:** <br>
 https://github.com/Jamie-Cheung/ArtBank <br>
 https://github.com/zyxElsa/InST
