@@ -9,6 +9,8 @@ https://github.com/Excalibro1/fast-stable-diffusionwik/wiki/fast-stable-diffusio
 
 https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast-DreamBooth.ipynb#scrollTo=A1B299g-_VJo
 
+https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb#scrollTo=yEErJFjlrSWS
+
 
 ### For measuring perturbation
 
