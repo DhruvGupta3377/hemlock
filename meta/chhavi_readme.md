@@ -1,6 +1,13 @@
 # Final Doc
 [https://docs.google.com/document/d/1BKT5YAyJ5jZe3HuYqxSKQJV2pDA52NFrID0jT45n_S0/edit?usp=sharing](https://docs.google.com/document/d/1BKT5YAyJ5jZe3HuYqxSKQJV2pDA52NFrID0jT45n_S0/edit?usp=sharing)
 
+# Cloaking Notebooks
+Encoder Attack: [https://colab.research.google.com/drive/1nbWnOs4reIVB_mpKtbhvWKMde9EyVsyN?usp=sharing](https://colab.research.google.com/drive/1nbWnOs4reIVB_mpKtbhvWKMde9EyVsyN?usp=sharing)
+Diffusion Attack: [https://colab.research.google.com/drive/1eP0UWchRYIJMwjYUGOUXZD5AF-sJC-pL?usp=sharing](https://colab.research.google.com/drive/1eP0UWchRYIJMwjYUGOUXZD5AF-sJC-pL?usp=sharing)
+
+## PhotoGuard
+[https://arxiv.org/pdf/2302.06588.pdf](https://arxiv.org/pdf/2302.06588.pdf)
+[https://news.mit.edu/2023/using-ai-protect-against-ai-image-manipulation-0731](https://news.mit.edu/2023/using-ai-protect-against-ai-image-manipulation-0731)
 
 ## Fawkes
 [https://www.usenix.org/system/files/sec20-shan.pdf](https://www.usenix.org/system/files/sec20-shan.pdf)
@@ -10,10 +17,6 @@ code:
 
 ## Lowkey
 [https://arxiv.org/abs/2101.07922](https://arxiv.org/abs/2101.07922)
-
-## PhotoGuard
-[https://arxiv.org/pdf/2302.06588.pdf](https://arxiv.org/pdf/2302.06588.pdf)
-[https://news.mit.edu/2023/using-ai-protect-against-ai-image-manipulation-0731](https://news.mit.edu/2023/using-ai-protect-against-ai-image-manipulation-0731)
 
 ## DSSIM
 [https://arxiv.org/abs/2202.02616](https://arxiv.org/abs/2202.02616)
