@@ -35,3 +35,6 @@ https://arxiv.org/pdf/2101.07922.pdf
 
 ## STABLE DIFFUSION TRAIN
 https://colab.research.google.com/drive/1AVdtEbNawxbhIhqUd9bsYBtE_IuDU93l?usp=sharing
+
+## Model Architecture Notebook
+https://www.kaggle.com/code/devanshagarwal9/u-net-architecture
