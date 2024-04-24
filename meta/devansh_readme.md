@@ -38,3 +38,6 @@ https://colab.research.google.com/drive/1AVdtEbNawxbhIhqUd9bsYBtE_IuDU93l?usp=sh
 
 ## Model Architecture Notebook
 https://www.kaggle.com/code/devanshagarwal9/u-net-architecture
+
+**U-NET Paper:** <br>
+https://arxiv.org/abs/1505.04597v1
